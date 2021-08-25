@@ -7,7 +7,7 @@
 
 
 ##.2 repo
-https://github.com/siti050687/GITCOINDROP/tree/main/tash%207/simple%20dapp/nervos-simple-dapp-main
+https://github.com/siti050687/GITCOINDROP/tree/main/tash%207/simple%20dapp/simple-dapp
 
 
 ## . 3 smart contracts and tx
